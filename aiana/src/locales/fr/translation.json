@@ -1,6 +1,22 @@
 {
-    "home": "Accueil",
+  "home": "Accueil",
   "elephant": "Éléphant",
   "rhino": "Rhinocéros",
-  "tiger": "Tigre"
+  "tiger": "Tigre",
+  "poachingTitle": "Qu'est-ce que le braconnage ?",
+  "poachingDescription": "Selon le Fonds international pour la protection des animaux (IFAW), le braconnage est la chasse ou la capture illégale d'animaux appartenant à autrui.Dans de nombreux cas, il s'agit de tuer des animaux pour obtenir leur viande, leurs cornes, leurs écailles ou d'autres parties de leur corps. Dans d'autres cas, il s'agit de capturer des animaux vivants, qui sont ensuite vendus illégalement comme animaux de compagnie exotiques, utilisés dans le tourisme ou le divertissement, ou exploités pour d'autres usages comme l'extraction de bile chez les ours.",
+  "speciesExtinction": "Espèces menacées d'extinction chaque année (Center for Biological Diversity)",
+  "money":" 7 à 23 milliards $",
+  "poachingTurnover": "représente le chiffre d'affaires généré par le braconnage",
+  "elephantIvoryMass": "Masse d’ivoire d’éléphant saisie (1990–2024)",
+  "rhinoPoachingTrends": "Nombre de rhinocéros morts causés par le braconnage en Afrique du Sud de 2000 à 2021",
+  "rhinoPoaching": "Nombre de rhinocéros morts causés par le braconnage ",
+  "chart": {
+    "elephantTitle": "Masse d’ivoire d’éléphant saisie (1990–2024)",
+    "rhinoTitle": "Nombre de cornes de rhinocéros saisies (1990–2024)",
+    "elephantButton": "Ivoire d’éléphant",
+    "rhinoButton": "Ivoire de rhinocéros",
+    "ivoryLegend": "Saisies d’ivoire",
+    "rhinoLegend": "Rhinocéros braconnés"
+  }
 }

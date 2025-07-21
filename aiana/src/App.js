@@ -5,6 +5,7 @@ import Home from './Pages/Home';
 import Rhino from './Pages/Rhino';
 import Elephant from './Pages/Elephant';
 import Tiger from './Pages/Tiger';
+import './App.css'
 
 function App() {
   return (

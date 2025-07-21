@@ -2,11 +2,11 @@
 
 .sidebar {
   height: 100vh;
-  width: 250px;
+  width: 200px;
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #f8f9fa;
+  background-color: #D57E2A;
   border-right: 1px solid #ddd;
   padding: 20px;
   font-family: 'Merriweather', serif;
@@ -27,14 +27,14 @@
 }
 
 .links .nav-link:hover {
-  color: #007bff !important;
+  color: #FFB74D !important;
   background-color: #e9ecef;
   border-radius: 4px;
 }
 
 .links .nav-link.active {
   font-weight: bold;
-  color: #0d6efd !important;
+  color: #FFB74D !important;
 }
 
 .language-switcher {
@@ -48,19 +48,19 @@
   padding: 4px 0;
   text-align: left;
   font-size: 0.95rem;
-  color: #007bff;
+  color: #FFB74D;
   cursor: pointer;
 }
 
 .lang-link:hover {
   text-decoration: underline;
-  color: #0056b3;
+  color: #D57E2A;
 }
 
 .language-switcher .lang-link {
   background: none;
   border: none;
-  color: #007bff;
+  color: #FFB74D;
   padding: 4px 0;
   text-align: left;
   cursor: pointer;
